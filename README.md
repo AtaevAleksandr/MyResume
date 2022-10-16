@@ -1,6 +1,6 @@
 # Атаев Александр Игоревич
 
-![](https://github.com/AtaevAleksandr/MyResume/commit/59ad65ec5dbfcf3000383fbaf1967de2442d8dee#diff-c40582212837d360d98cf81a5d7d00faa8f143bf4e5ba32f8462769d419c151b)
+![]()
 
 ### Обо мне:
 
@@ -9,6 +9,6 @@
 
 ### Список навыков:
 
-*Знаком с программами: Xcode, MS Office, TeamCenter, FactoryLogix.
-*Изучил книги Ray Wenderlich по iOS разработке.
-*На пути к Мастеру спорта по настольному теннису
+* Знаком с программами: Xcode, MS Office, TeamCenter, FactoryLogix.
+* Изучил книги Ray Wenderlich по iOS разработке.
+* На пути к Мастеру спорта по настольному теннису
